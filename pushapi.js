@@ -1,4 +1,5 @@
 // function for convert to unicode
+//use this in your script while using javascript to send sms
 
 function toUnicode(theString) {
         var unicodeString = '';
